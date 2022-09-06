@@ -1,5 +1,5 @@
-# Covid_Project
-Visualizations that supports exploration around the covid, Building a model to predict covid convern and answering our research question - 
+# Covid Project
+Visualizations which emphasis explorations around the covid, Building a model to predict covid convern and answering our research question - 
 Does the size of a certain age group out of the population in a state affect the number of people that got infected or died from Corona virus in that state?
 
 
